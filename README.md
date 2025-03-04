@@ -11,7 +11,6 @@
 <h1 align="center">Hi 👋, I'm Diego Vega  <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Montes </a></h1>
 <h3 align="center">A passionate  Data Scientist  from Mexico</h3>
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
