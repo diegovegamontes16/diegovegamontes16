@@ -28,20 +28,6 @@ Montes </a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Data Analyst
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning  Fullstack Developer <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **SQL or Databases **
-
-- 📫 How to reach me **vegamontesdiego16@gmail.com**
-
 ## 💻 Technologies 
 
 <div>
